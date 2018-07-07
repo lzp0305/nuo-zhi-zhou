@@ -1026,7 +1026,10 @@
   .houqi3 img {
     position: absolute;
     top: -29px;
-    right: 48px; }
+    right: 48px;
+    display: block;
+    width: 420px;
+    height: 250px; }
 
 .erp1 {
   overflow: hidden;
